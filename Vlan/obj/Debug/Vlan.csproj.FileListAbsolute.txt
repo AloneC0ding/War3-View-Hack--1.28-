@@ -1,0 +1,10 @@
+C:\Users\Alone\source\repos\Vlan\Vlan\obj\Debug\Vlan.Form1.resources
+C:\Users\Alone\source\repos\Vlan\Vlan\obj\Debug\Vlan.csproj.GenerateResource.cache
+C:\Users\Alone\source\repos\Vlan\Vlan\obj\Debug\Vlan.csproj.CoreCompileInputs.cache
+C:\Users\Alone\source\repos\Vlan\Vlan\bin\Debug\Alone.exe.config
+C:\Users\Alone\source\repos\Vlan\Vlan\bin\Debug\Alone.exe
+C:\Users\Alone\source\repos\Vlan\Vlan\bin\Debug\Alone.pdb
+C:\Users\Alone\source\repos\Vlan\Vlan\obj\Debug\Alone.Properties.Resources.resources
+C:\Users\Alone\source\repos\Vlan\Vlan\obj\Debug\Alone.exe
+C:\Users\Alone\source\repos\Vlan\Vlan\obj\Debug\Alone.pdb
+C:\Users\Alone\source\repos\Vlan\Vlan\obj\Debug\Vlan.csprojAssemblyReference.cache
